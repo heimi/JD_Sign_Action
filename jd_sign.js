@@ -12,7 +12,7 @@ const cookie = 'shshshfpa=6ab89bd4-d85d-47d5-f27d-7a46b911bba6-1545266167; shshs
 // 京东Cookie
 const dual_cookie = ''
 // Server酱SCKEY
-const push_key = ''
+const push_key = 'SCU36210Ta45f3a9620da2aaf644f867848749f465bf659aa30957'
 
 // 京东脚本文件
 const js_url = 'https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js'
