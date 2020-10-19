@@ -14,8 +14,8 @@ on:
     types: started
     
 env:
-  JD_COOKIE: ${{ secrets.JD_COOKIE }}
-  JD_DUAL_COOKIE: ${{ secrets.JD_DUAL_COOKIE }}
+  JD_COOKIE1: ${{ secrets.JD_COOKIE1 }}
+  JD_COOKIE2: ${{ secrets.JD_COOKIE2 }}
   PUSH_KEY: ${{ secrets.PUSH_KEY }}
   UPLOAD_BESULT_DIR: true
 
